@@ -22,6 +22,10 @@ SET time_zone = "+00:00";
 -- Database: `bdacademia`
 --
 
+CREATE DATABASE IF NOT EXISTS bdacademia;
+
+USE bdacademia;
+
 -- --------------------------------------------------------
 
 --
